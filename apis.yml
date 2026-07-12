@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://dev.tamtam.chat/
 common:
+  - type: DomainSecurity
+    url: security/tamtam-domain-security.yml
   - type: Website
     url: https://dev.tamtam.chat/
   - type: PublicAPIsListing
