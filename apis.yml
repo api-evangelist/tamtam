@@ -39,7 +39,6 @@ apis:
   - name: TamTam
     description: "Bot API to interact with TamTam"
     humanURL: https://dev.tamtam.chat/
-    baseURL: https://dev.tamtam.chat/
     tags:
       - Social
     properties:
